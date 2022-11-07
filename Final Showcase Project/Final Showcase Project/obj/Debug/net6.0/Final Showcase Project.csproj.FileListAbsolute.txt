@@ -1,0 +1,15 @@
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\obj\Debug\net6.0\Final Showcase Project.csproj.AssemblyReference.cache
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\obj\Debug\net6.0\Final Showcase Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\obj\Debug\net6.0\Final Showcase Project.AssemblyInfoInputs.cache
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\obj\Debug\net6.0\Final Showcase Project.AssemblyInfo.cs
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\obj\Debug\net6.0\Final Showcase Project.csproj.CoreCompileInputs.cache
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\bin\Debug\net6.0\Final Showcase Project.exe
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\bin\Debug\net6.0\Final Showcase Project.deps.json
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\bin\Debug\net6.0\Final Showcase Project.runtimeconfig.json
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\bin\Debug\net6.0\Final Showcase Project.dll
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\bin\Debug\net6.0\Final Showcase Project.pdb
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\obj\Debug\net6.0\Final Showcase Project.dll
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\obj\Debug\net6.0\refint\Final Showcase Project.dll
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\obj\Debug\net6.0\Final Showcase Project.pdb
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\obj\Debug\net6.0\Final Showcase Project.genruntimeconfig.cache
+C:\Users\willncan\Downloads\CannonWillner\IntroToProgramingCannonWillner\Final Showcase Project\Final Showcase Project\obj\Debug\net6.0\ref\Final Showcase Project.dll
